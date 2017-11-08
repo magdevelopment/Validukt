@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Validukt</string>
+
+    <!-- Errors -->
+    <string name="error_empty_field">Can\'t be empty</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="error_agreement">Agreement should be accepted</string>
+    <string name="error_password_match">Passwords don\'t match</string>
+    <string name="error_short_password">Password is too short</string>
+
+    <!-- Sign up -->
+    <string name="e_mail_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm password</string>
+    <string name="accept_agreement">Accept agreement</string>
+    <string name="success">Success!</string>
+</resources>
